@@ -1,4 +1,4 @@
 def my_each(collection)
-  collection 
-  # code here
+  i = 0 
+  while 
 end
